@@ -8,7 +8,6 @@ namespace offset
 	{
 		uintptr_t EntityList = 0x18EDA78;
 		uintptr_t LocalEntity = 0x1C9D198;
-		uintptr_t EntitySize = 0x42E0;
 		uintptr_t ABSVelocity = 0x140;
 		uintptr_t Position = 0x14C;
 		uintptr_t Shield = 0x170;
