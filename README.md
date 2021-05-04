@@ -41,3 +41,6 @@ namespace offset
 	}
 }
 ```
+
+Join our Discord Server
+https://discord.gg/SgCePxdkYZ
