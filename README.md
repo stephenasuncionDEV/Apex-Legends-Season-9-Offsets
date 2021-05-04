@@ -41,5 +41,5 @@ namespace offset
 }
 ```
 
-Join our Discord Server
-https://discord.gg/SgCePxdkYZ
+Discord
+typedef#2604
