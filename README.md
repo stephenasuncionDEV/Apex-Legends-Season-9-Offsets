@@ -1,8 +1,6 @@
 # Apex-Legends-Season-9-Offsets
 Apex Legends Season 9 Offsets
 
-Buy game hacks: https://discord.gg/SgCePxdkYZ
-
 ```
 namespace offset
 {
